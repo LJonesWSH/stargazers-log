@@ -1,0 +1,23 @@
+[
+  {
+    "name": "sindresorhus/awesome",
+    "description": "A curated list of awesome lists.",
+    "url": "https://github.com/sindresorhus/awesome",
+    "language": "Markdown",
+    "starredAt": "2026-09-18"
+  },
+  {
+    "name": "vitejs/vite",
+    "description": "Next generation frontend tooling.",
+    "url": "https://github.com/vitejs/vite",
+    "language": "TypeScript",
+    "starredAt": "2026-08-27"
+  },
+  {
+    "name": "pallets/flask",
+    "description": "A lightweight WSGI web application framework.",
+    "url": "https://github.com/pallets/flask",
+    "language": "Python",
+    "starredAt": "2026-07-11"
+  }
+]
